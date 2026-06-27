@@ -9,6 +9,7 @@ Instagram is shifting its product strategy from maximizing time spent to improvi
 Instagram aims to move beyond measuring platform success through usage time alone and instead focus on Engagement Quality Efficiency (EQE) — the efficiency with which user attention is converted into meaningful interactions.
 
 **Key challenges included:**
+
 	• Passive Feed and Reel consumption reducing engagement quality 
 	• Difficulty identifying users at risk of dormancy before churn 
 	• Limited visibility into the behavioral drivers of meaningful engagement 
