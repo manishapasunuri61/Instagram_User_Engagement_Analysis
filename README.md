@@ -50,6 +50,7 @@ Dormancy Risk Rate:
 Measures the proportion of users showing early signs of disengagement.
 
 **Executive Summary:**
+
 	• Average Engagement Quality Efficiency (EQE) = 1.48 
 	• Quick Feed Users achieved the highest EQE (6.22) 
 	• Quick Reel Viewers achieved significantly higher EQE (4.77) than immersive Reel users 
@@ -59,6 +60,7 @@ Measures the proportion of users showing early signs of disengagement.
 	• Behavioral patterns showed a stronger relationship with engagement quality than prolonged platform usage 
 
 **Key Findings:**
+
 **Light Session Frequency Is Associated With Higher Engagement Quality**
 Users with fewer daily sessions demonstrated significantly higher EQE than Heavy and Power Users.
 
@@ -84,6 +86,7 @@ Approximately 7.07% of users exhibited early signs of disengagement, highlightin
 Comment-to-Like Ratio, DM Activity Index, Ad CTR Proxy, and Ad Load Proxy provide additional visibility into conversation quality, private engagement, monetization effectiveness, and overall platform health.
 
 **Recommendations:**
+
 	• Optimize Feed ranking to encourage meaningful engagement rather than passive scrolling. 
 	• Improve Reel recommendations to promote high-quality user interactions. 
 	• Launch personalized re-engagement campaigns for Dormancy Risk Users. 
@@ -93,6 +96,7 @@ Comment-to-Like Ratio, DM Activity Index, Ad CTR Proxy, and Ad Load Proxy provid
 	• Continuously optimize engagement strategies using behavioral analytics. 
 
 **Expected Business Outcomes:**
+
 	• Improve Engagement Quality Efficiency (EQE) across key user segments. 
 	• Increase meaningful user interactions through improved Feed and Reel recommendations. 
 	• Reduce Dormancy Risk through proactive user re-engagement. 
@@ -103,6 +107,7 @@ Comment-to-Like Ratio, DM Activity Index, Ad CTR Proxy, and Ad Load Proxy provid
 	• Strengthen overall platform health through continuous behavioral analytics. 
 
 **Tools & Technologies**
+
 	• PostgreSQL (SQL) 
 	• Python 
 	• Tableau 
