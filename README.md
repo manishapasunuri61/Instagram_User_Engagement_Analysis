@@ -8,18 +8,19 @@ Instagram is shifting its product strategy from maximizing time spent to improvi
 
 Instagram aims to move beyond measuring platform success through usage time alone and instead focus on Engagement Quality Efficiency (EQE) — the efficiency with which user attention is converted into meaningful interactions.
 
-Key challenges included:
+**Key challenges included:**
 	• Passive Feed and Reel consumption reducing engagement quality 
 	• Difficulty identifying users at risk of dormancy before churn 
 	• Limited visibility into the behavioral drivers of meaningful engagement 
 	• Need to balance user engagement, retention, and platform monetization 
 This project builds interactive dashboards to identify high-value user behaviors, monitor platform health, and support data-driven product decisions.
 
-Dashboard:
+**Dashboard:**
+
 [Tableau Public:](https://public.tableau.com/app/profile/pasunuri.manisha/viz/InstagramEngagementQualityUserRetentionAnalysis/EngagementQualityDashboard)
 
 
-Key Objectives:
+**Key Objectives:**
 
 	• Analyze the behavioral drivers influencing Engagement Quality Efficiency (EQE) 
 	• Identify high-value user engagement patterns 
@@ -28,7 +29,7 @@ Key Objectives:
 	• Support product optimization through behavioral analytics 
 	• Enable data-driven product and retention decisions 
 
-Key KPIs:
+**Key KPIs:**
 
 Engagement Quality Efficiency (EQE):
 Measures how efficiently user attention is converted into meaningful engagement.
@@ -48,7 +49,7 @@ Measures advertisement exposure relative to user attention.
 Dormancy Risk Rate:
 Measures the proportion of users showing early signs of disengagement.
 
-Executive Summary:
+**Executive Summary:**
 	• Average Engagement Quality Efficiency (EQE) = 1.48 
 	• Quick Feed Users achieved the highest EQE (6.22) 
 	• Quick Reel Viewers achieved significantly higher EQE (4.77) than immersive Reel users 
@@ -57,7 +58,7 @@ Executive Summary:
 	• 7.07% of users were identified as Dormancy Risk Users 
 	• Behavioral patterns showed a stronger relationship with engagement quality than prolonged platform usage 
 
-Key Findings:
+**Key Findings:**
 **Light Session Frequency Is Associated With Higher Engagement Quality**
 Users with fewer daily sessions demonstrated significantly higher EQE than Heavy and Power Users.
 
